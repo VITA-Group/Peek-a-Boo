@@ -1,0 +1,9 @@
+**/*.pyc
+**/*.swp
+
+.vscode
+
+results
+
+.ipynb_checkpoints
+
