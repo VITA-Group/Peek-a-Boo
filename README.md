@@ -121,6 +121,9 @@ python main_imagenet_train.py \
     --seed 0 --workers 32 /path/to/the/imagenet/dataset 
 ```
 
+## Acknowledgement
+
+Thank you to Jason Zhang for helping with the development of the code repo, the research that we conducted with it and the consistent report after his movement to CMU. Thank you to Prof. Zhangyang Wang for the guidance and unreserved help with this project.
 
 ## Cite this work
 
